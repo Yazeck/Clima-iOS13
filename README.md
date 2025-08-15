@@ -12,10 +12,12 @@ This version uses **predefined static data** instead of connecting to a live wea
 - MVC architecture for better separation of concerns.
 
 ## Technologies Used
-<img width="640" height="1136" alt="Simulator Screen Shot - iPod touch (7th generation) - 2025-08-14 at 22 41 11" src="https://github.com/user-attachments/assets/4b795d03-9463-4e97-81d7-3090381df807" />
+
+
 
 - **Swift 5**
 - **UIKit**
 - **Storyboard**
 - **Auto Layout**
 - **MVC Architecture**
+-  <img width="640" height="1136" alt="Simulator iPod touch (7th generation) " src="https://github.com/user-attachments/assets/5ff30798-8b3e-44c9-8890-eb71101ab580" />
